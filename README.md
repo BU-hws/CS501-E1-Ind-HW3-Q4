@@ -16,3 +16,7 @@ Responsive behavior is implemented using `LocalConfiguration` to check screen wi
 ## AI Usage
 
 ChatGPT was used for debugging layout issues and helping refine the responsive structure. It is also used to draft this README.
+
+## Screenshot
+![Phone Mode](phone-mode.png)
+![Tablet Mode](tablet-mode.png)
